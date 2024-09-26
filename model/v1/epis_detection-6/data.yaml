@@ -1,0 +1,24 @@
+names:
+- bola
+- bomba
+- bota1
+- bota2
+- capacete
+- cx-bike
+- cx-ferro
+- cx-magali
+- cx-minions
+- cx-xuxa
+- isqueiro
+- luz
+- pote
+nc: 13
+roboflow:
+  license: MIT
+  project: epis_detection
+  url: https://universe.roboflow.com/projcp/epis_detection/dataset/6
+  version: 6
+  workspace: projcp
+test: test/images
+train: train/images
+val: valid/images

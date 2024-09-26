@@ -1,0 +1,42 @@
+{
+    "image1": {
+        "path": "img1.jpeg",
+        "objects": {
+            "pote": 1,
+            "bota2": 1,
+            "bola": 1,
+            "bota1": 1,
+            "bomba": 1,
+            "cx-minions": 1,
+            "cx-magali": 1,
+            "cx-bike": 1,
+            "cx-xuxa": 1,
+            "luz": 1,
+            "cx-ferro": 1
+        }
+    },
+    "image2": {
+        "path": "img2.jpeg",
+        "objects": {
+            "capacete": 1,
+            "bota1": 1,
+            "luz": 1,
+            "pote": 1,
+            "cx-xuxa": 1,
+            "cx-magali": 1,
+            "cx-bike": 1,
+            "cx-ferro": 1
+        }
+    },
+    "difference": {
+        "in_image1_not_in_image2": {
+            "bota2": 1,
+            "bola": 1,
+            "bomba": 1,
+            "cx-minions": 1
+        },
+        "in_image2_not_in_image1": {
+            "capacete": 1
+        }
+    }
+}
